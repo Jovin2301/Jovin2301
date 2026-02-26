@@ -14,10 +14,10 @@
 
 ## 🔗 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="blank">
+<a href="www.linkedin.com/in/jovin-wong-2301-" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="mailto:YOUR-EMAIL">
+<a href="mailto:e1527037@u.nus.edu">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
 </a>
 </p>
@@ -47,30 +47,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
 ## 🏆 Featured Projects
 
-- 📈 Data Analysis Dashboard (Power BI / Python)
+- 📈 Data Analysis Dashboard (Power BI / Python / Tableau)
 - 🗄️ Database Management System Project
 - 🤖 Machine Learning Model Project
 - 🌐 Full-Stack Web App with Database Integration
 
 ---
 
-⭐️ From [Jovin](https://github.com/YOUR_USERNAME)
+⭐️ From [Jovin](https://github.com/Jovin2301)
