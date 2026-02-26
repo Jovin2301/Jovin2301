@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jovin</h1>
+<h1 align="center">Hi, I'm Jovin Wong</h1>
 <h3 align="center">Aspiring Data Analyst & Data Engineering Enthusiast</h3>
 
 ---
